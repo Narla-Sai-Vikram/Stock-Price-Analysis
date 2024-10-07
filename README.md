@@ -20,13 +20,14 @@ To use the model, simply load the pre-trained model using Keras and provide it w
 
 Dependencies
 
-Python 3.x
-Keras 2.x
-TensorFlow 2.x
-NumPy 1.x
-Pandas 1.x
-Matplotlib 3.x
-yfinance 0.x
+Python 3.x,
+Keras 2.x,
+TensorFlow 2.x,
+NumPy 1.x,
+Pandas 1.x,
+Matplotlib 3.x,
+yfinance 0.x,
 
 Acknowledgments
+
 This repository is inspired by various online resources on stock price prediction using LSTM neural networks
